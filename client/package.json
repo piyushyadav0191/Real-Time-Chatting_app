@@ -1,0 +1,27 @@
+{
+  "name": "mernchatapp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-moment": "^1.1.2",
+    "react-router-dom": "^6.4.0",
+    "react-tsparticles": "^2.3.1",
+    "socket.io-client": "^4.5.2",
+    "tsparticles": "^2.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "vite": "^3.1.0"
+  }
+}
